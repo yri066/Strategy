@@ -1,2 +1,1 @@
 https://metanit.com/sharp/patterns/3.1.php
-http://www.plantuml.com/plantuml/uml/jPB1IWCn48RlynHpt4Lsdq2ae20UAiBs9XvYEuP0Df79h5ggx-wI9YJMHV7WBPd_opz_9ba5KIpJQ65hLGXuwPtGsm4Gkvj1M0dfFOQqcAjdBzxi4jLy9reu0WD9rXQfRBJPFzFjD3uIDoryG0en6ASjNHbj92OnJj15AX-iaQR8lnblNlsFhb7_c-LwicB-8UeTUyrgZAOHMolZcY0ykzq_e68Tsg-lT5rcNlM9blEM-4bj2Gj-WENsXJX_x_iw_QcKftLQBoE1uqT1ttKNfJMaks7VrzKLkTqqsay0
